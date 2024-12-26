@@ -41,7 +41,7 @@ Planejadores urbanos podem usar o Filtra Selecionados para aplicar rapidamente f
 
 # Documentação e Suporte:
 
-- Suporte: Contato via email: [20240619@novaims.unl.pt](mailto:20240619@novaims.unl.pt).
+- Suporte: https://github.com/TiagoJoseMS/Filtra_Selecionados/issues.
 - Idiomas: Disponível em Português e Inglês.
 
 # Licença:
