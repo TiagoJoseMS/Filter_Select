@@ -55,5 +55,5 @@ Este plugin é distribuído sob a licença **GNU General Public License v2 ou po
 
 ## Autor
 
-Tiago José M Silva - [20240619@novaims.unl.pt](mailto:20240619@novaims.unl.pt)
+Tiago José M Silva - [tiago.moraessilva@hotmail.com](mailto:tiago.moraessilva@hotmail.com)
 
