@@ -12,8 +12,8 @@ version=1.0
 qgisMinimumVersion=3.4
 author=Tiago José M Silva
 email=tiago.moraessilva@hotmail.com
-homepage: https://github.com/TiagoJoseMS/Filtra_Selecionados
-repository=https://github.com/TiagoJoseMS/Filtra_Selecionados/code
+homepage=https://github.com/TiagoJoseMS/Filtra_Selecionados
+repository=https://github.com/TiagoJoseMS/Filtra_Selecionados/tree/main
 tracker=https://github.com/TiagoJoseMS/Filtra_Selecionados/issues
 tags=filtragem,seleção,camadas,WFS,editavel,não-editavel,fid,id,codigo,filtrar,plugin QGIS,Python,CSV | filtering,selection,layers,WFS,editable,non-editable,fid,id,code,filter,QGIS plugin,Python,CSV
 testedPlatforms=Windows,macOS,Linux
